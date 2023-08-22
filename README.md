@@ -1,5 +1,5 @@
 ### Hi, I'm Catherine 👋
-- :notebook: I am currently a junior at the University of Michigan, studying computer science and cognitive science
+- :notebook: I am currently a senior at the University of Michigan, studying computer science and cognitive science
 - :video_game: I'm currently working on creating a single player RPG using Unity
 - :violin: Fun fact: I like to play violin and want to release more covers on SoundCloud!
 
