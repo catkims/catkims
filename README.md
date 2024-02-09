@@ -1,5 +1,5 @@
 ### Hi, I'm Catherine 👋
-I am currently a senior at the University of Michigan, studying computer science and cognitive science. I like designing things but I'm also interested in learning new AI technology. I like playing soccer but I'm usually indoors playing games on my switch 😅
+I am currently a senior at the University of Michigan, studying computer science and cognitive science. I like designing things but I'm also interested in learning new AI technology.
 
 📫 How to reach me: catkims@umich.edu
 <!--
